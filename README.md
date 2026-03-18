@@ -13,7 +13,7 @@ FastLED is currently expanding into several new functional areas:
 * [FastLED GFX Canvas](https://github.com/FastLED/FastLED/README.md)
 * [FastLED std](https://github.com/FastLED/FastLED/README.md)
 * [FastLED fixed-point](https://github.com/FastLED/FastLED/blob/master/src/fl/stl/fixed_point/README.md)
-* * [fbuild](https://github.com/FastLED/fbuild/README.md)
+* [fbuild](https://github.com/FastLED/fbuild/README.md)
 * [WebAssembly (wasm)](https://github.com/FastLED/FastLED/blob/master/src/platforms/wasm/README.md)
 * ...
 
